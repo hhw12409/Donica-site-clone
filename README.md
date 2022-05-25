@@ -8,3 +8,6 @@
   * HTML
   * CSS
   * SCSS
+
+# main screen
+![main](https://user-images.githubusercontent.com/85764782/170316214-c816a13d-136c-46f8-b2f5-8b92e1ebaadf.png)
